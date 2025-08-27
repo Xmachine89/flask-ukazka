@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtuální prostředí
+.venv/
+
+# PyCharm nastavení
+.idea/
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
